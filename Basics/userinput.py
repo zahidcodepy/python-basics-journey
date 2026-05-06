@@ -11,6 +11,8 @@ print(type(x))
 
 # Type conversion
 age = int(input("Enter your Age:"))
+print(age)
+
 # OUTPUT should be integer
 """python converts i/p only when we tell it"""
 # No automatic type detection
