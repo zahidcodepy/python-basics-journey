@@ -27,4 +27,12 @@ citizen = True
 if age >= 18:
     if citizen:
         print("Eligible to vote")
-        
+
+
+# Practice Problem 
+num = int(input("Enter number: ")) 
+
+if num % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
