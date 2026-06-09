@@ -9,4 +9,4 @@ match variable:
         # Default case (optional)
         # # match checks the value of a variable.
 # case defines possible matches.
-# _ acts as the default case (similar to else)
+# ("_") acts as the default case (similar to else)
