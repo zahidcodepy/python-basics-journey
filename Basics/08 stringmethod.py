@@ -1,5 +1,9 @@
 # String Method
-# IMPORTANT - STRINGS ARE IMMUTABLE
+# Python provides 47+ built-in string methods in the str class.
+
+# Most Important String Methods (Interview & Practical Use):
+
+# IMP point - STRINGS ARE IMMUTABLE
 # Python provides a set of BUILT-IN-Methods that we can use to alter and modify the strings
 a = "!!!Khan!! !!!!!!!! Khan!!"
 print(len(a))
