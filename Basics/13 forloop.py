@@ -6,3 +6,4 @@
 language = "PYTHON"
 for i in language:
     print(i)
+# In this example, we have a string "PYTHON". The for loop iterates over each character in the string and prints it. The variable 'i' takes on the value of each character in the string during each iteration of the loop.
