@@ -3,6 +3,32 @@
 
 # Most Important String Methods (Interview & Practical Use):
 
+# 1. upper()
+# 2. lower()
+# 3. capitalize()
+# 4. title()
+# 5. swapcase()
+# 6. strip()
+# 7. lstrip()
+# 8. rstrip()
+# 9. replace()
+# 10. split()
+# 11. join()
+# 12. find()
+# 13. index()
+# 14. count()
+# 15. startswith()
+# 16. endswith()
+# 17. isalnum()
+# 18. isalpha()
+# 19. isdigit()
+# 20. isnumeric()
+# 21. islower()
+# 22. isupper()
+# 23. isspace()
+# 24. istitle()
+# 25. center()
+
 # IMP point - STRINGS ARE IMMUTABLE
 # Python provides a set of BUILT-IN-Methods that we can use to alter and modify the strings
 a = "!!!Khan!! !!!!!!!! Khan!!"
