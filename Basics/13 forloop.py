@@ -15,3 +15,13 @@ for i in language:
 # H
 # O
 # N
+
+# Using range() Function
+# The range() function is commonly used in for loops to generate a sequence of numbers. It can take one, two, or three arguments:
+
+# Syntax:
+
+# range(stop)
+# range(start, stop)
+# range(start, stop, step)
+
