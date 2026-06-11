@@ -47,4 +47,4 @@ print(a.count("Khan")) #count(value) returns the total occurrences of the specif
 
 text = "Hello.py"
 print(text.endswith(".py")) # Returns True if the string ends with the specified suffix, otherwise False.
-
+print(text.startwith("H"))  # Returns True if the string starts with the specified prefix, otherwise False.
