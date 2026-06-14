@@ -1,4 +1,3 @@
-
 # break Statement: The break statement terminates the loop entirely, exiting from it immediately.
 # It is commonly used to exit a loop when a certain condition is met, preventing further iterations.
 
