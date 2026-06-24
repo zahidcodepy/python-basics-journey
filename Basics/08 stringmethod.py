@@ -50,3 +50,4 @@ print(text.endswith(".py")) # Returns True if the string ends with the specified
 print(text.startswith("H"))  # Returns True if the string starts with the specified prefix, otherwise False.
 print(a.find("Khan"))  # Finds the first occurrence of "Khan" and returns its index.
 print(a.index("Khan"))  # Returns the index of the first occurrence of "Khan".
+print("-".join(["Python", "is", "easy"]))  # Joins the list elements into a string using "-".
