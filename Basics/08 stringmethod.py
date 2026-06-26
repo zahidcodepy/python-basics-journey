@@ -52,3 +52,4 @@ print(a.find("Khan"))  # Finds the first occurrence of "Khan" and returns its in
 print(a.index("Khan"))  # Returns the index of the first occurrence of "Khan".
 print("-".join(["Python", "is", "easy"]))  # Joins the list elements into a string using "-".
 print(a.isalpha())  # Returns True if all characters are alphabets.
+print(a.lstrip()) # Removes spaces from the left side.
