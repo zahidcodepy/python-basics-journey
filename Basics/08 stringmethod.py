@@ -53,3 +53,4 @@ print(a.index("Khan"))  # Returns the index of the first occurrence of "Khan".
 print("-".join(["Python", "is", "easy"]))  # Joins the list elements into a string using "-".
 print(a.isalpha())  # Returns True if all characters are alphabets.
 print(a.lstrip()) # Removes spaces from the left side.
+print("Hello World".istitle())  # Returns True if each word starts with a capital letter.
