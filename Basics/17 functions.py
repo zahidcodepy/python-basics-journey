@@ -25,3 +25,13 @@ result = greet("KHAN")
 print(result)
 
 # In this example, we define a function called 'greet' that takes one parameter 'name'.
+
+
+# Example 2
+
+def find_square(num): # 'num' is a parameter of the function 'find_square'
+    return num * num # this line will return the square of the number
+
+# Calling the function
+square = find_square(5)
+print(square)
