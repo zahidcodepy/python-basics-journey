@@ -26,8 +26,6 @@ print(result)
 
 # In this example, we define a function called 'greet' that takes one parameter 'name'.
 
-
-
 # Example 2
 
 def find_square(num): # 'num' is a parameter of the function 'find_square'
