@@ -4,10 +4,17 @@
 
 # SYNTAX:
 
-def function_name(parameter):
-     # code
+# def function_name(parameter):
+       # code
 
-function_name(argument)
+# function_name(argument)
 
 Parameter → Variable in the function definition.
 Argument → Actual value passed to the function
+
+# EXAMPLE
+
+def greet(name):      # name → parameter
+    print("Hello", name)
+
+greet("Zahid")         # "Zahid" → argument
