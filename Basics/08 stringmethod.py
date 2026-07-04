@@ -56,3 +56,4 @@ print(a.lstrip()) # Removes spaces from the left side.
 print("Hello World".istitle())  # Returns True if each word starts with a capital letter.
 print("PYTHON".isupper())  # Returns True if all letters are uppercase.
 print("12345".isnumeric())  # Returns True if all characters are numeric.
+print("12345".isdigit())  # Returns True if all characters are digits.
