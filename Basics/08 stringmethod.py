@@ -57,3 +57,4 @@ print("Hello World".istitle())  # Returns True if each word starts with a capita
 print("PYTHON".isupper())  # Returns True if all letters are uppercase.
 print("12345".isnumeric())  # Returns True if all characters are numeric.
 print("12345".isdigit())  # Returns True if all characters are digits.
+print(a.isalpha())  # Returns True if all characters are alphabets.
