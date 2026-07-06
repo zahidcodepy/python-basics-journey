@@ -59,3 +59,4 @@ print("12345".isnumeric())  # Returns True if all characters are numeric.
 print("12345".isdigit())  # Returns True if all characters are digits.
 print(a.isalpha())  # Returns True if all characters are alphabets.
 print(a.isalnum())  # Returns True if all characters are letters or numbers.
+print("abc123".isascii())  # Returns True if all characters are ASCII.
