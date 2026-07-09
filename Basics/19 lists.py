@@ -1,4 +1,8 @@
-# A list is an ordered, mutable (changeable) collection of items.
+LISTS IN PYTHON:
+
+1. List is a built-in data structure used to store an ordered collection of items.
+
+2. They are dynamic, resizable and capable of storing multiple data types.
 
 # A list can store:
 
